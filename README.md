@@ -1,5 +1,5 @@
 ## Adam Kearns
-# 3rd Year Computer Science student at University College Dublin
+### 3rd Year Computer Science student at University College Dublin
 
 I have a particular interest in the fields of software engineering and am eager to expand my knowledge in these areas of the field.
 
